@@ -1,4 +1,4 @@
-local component = require("component")
+local component = require("component")1
 local term = require("term")
 local text = require("text")
 local event = require("event")
